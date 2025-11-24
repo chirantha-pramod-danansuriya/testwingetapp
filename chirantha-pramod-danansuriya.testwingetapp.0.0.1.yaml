@@ -1,0 +1,11 @@
+Id: chirantha-pramod-danansuriya.testwingetapp
+Version: 0.0.1
+Name: testwingetapp
+Publisher: testwingetapp
+Description: testing app
+License: MIT
+InstallerType: zip
+InstallerUrl: https://example.com/downloads/myapp.zip
+InstallerArgs: /silent
+InstallLocation: C:\Data\Test
+

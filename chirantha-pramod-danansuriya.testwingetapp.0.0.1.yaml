@@ -5,7 +5,7 @@ Publisher: testwingetapp
 Description: testing app
 License: MIT
 InstallerType: zip
-InstallerUrl: https://example.com/downloads/myapp.zip
+InstallerUrl: https://github.com/chirantha-pramod-danansuriya/testwingetapp/archive/refs/heads/main.zip
 InstallerArgs: /silent
 InstallLocation: C:\Data\Test
 
